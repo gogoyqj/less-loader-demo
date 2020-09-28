@@ -1,0 +1,1 @@
+import '@bit/my-test.home.sfc-avatar';
